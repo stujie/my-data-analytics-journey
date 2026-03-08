@@ -14,7 +14,7 @@ A summary of my notes, practice, and projects as I learn skills required for dat
 # Python
 | Course/Project | Date Completed | My Repo | Description |
 |---|---|---|---|
-| [Khan Academy - Intro to CS (Python)](https://www.khanacademy.org/computing/intro-to-python-fundamentals) |---| [Python_KhanAcademy](https://github.com/stujie/Python_KhanAcademy) | Beginners course made of videos and hands on practice assignments and projects. |
+| [DataCamp - Introduction to Python)](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) |---|---|
 | [Practice Python](https://www.practicepython.org/) |---|---| 40 beginners practice exercises. |
 
 ***
