@@ -14,7 +14,6 @@ A summary of my notes, practice, and projects as I learn skills required for dat
 # Python
 | Course/Project | Date Completed | My Repo | Description |
 |---|---|---|---|
-| [DataCamp - Introduction to Python)](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) |---|---|
 | [Practice Python](https://www.practicepython.org/) |---|---| 40 beginners practice exercises. |
 
 ***
