@@ -14,7 +14,7 @@ A summary of my notes, practice, and projects as I learn skills required for dat
 # Python
 | Course/Project | Date Completed | My Repo | Description |
 |---|---|---|---|
-| [Practice Python](https://www.practicepython.org/) |---|---| 40 beginners practice exercises. |
+| [Practice Python](https://www.practicepython.org/) |---|[practice_python](https://github.com/stujie/learn_py/tree/main/practice_python)| 40 beginners practice exercises. |
 
 ***
 
